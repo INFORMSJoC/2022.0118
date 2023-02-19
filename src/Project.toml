@@ -1,0 +1,4 @@
+[deps]
+GasPowerModels = "1fcaf345-95e3-5b8b-91d6-2145eb844b9d"
+InfrastructureModels = "2030c09a-7f63-5d83-885d-db604e0e9cc0"
+PowerWaterModels = "7f4f7f52-2f44-4c87-b9ed-462dc784f1b2"
