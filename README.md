@@ -50,7 +50,33 @@ TBD
 ## Replicating
 
 A Julia v1.8 environment is provided in the `src` directory, which can be used to replicate the software package setting used in this paper.
-The results presented in the paper can be replicated used in the scripts that are provided in the `examples` sub-directories in the PowerWaterModels.jl and GasPowerModels.jl repositories.
+The results presented in the paper can be replicated using the scripts that are provided in the `examples` subdirectories in the PowerWaterModels.jl and GasPowerModels.jl repositories.
+To retrieve the source code for these packages, which are provided as Git submodules, execute the following:
+```bash
+git submodule update --init --recursive
+```
+
+To use the `src` folder as the project environment, execute
+```bash
+julia --project=src
+```
+Then, instantiate the project using
+```julia
+] instantiate
+```
+
+To replicate the GasPowerModels maximal load delivery (MLD) example results, execute the following:
+```bash
+cd src/GasPowerModels.jl/examples
+julia --project="../../../src" mld.jl
+```
+
+To replicate the PowerWaterModels example, execute the following:
+```bash
+cd src/PowerWaterModels.jl
+mkdir results
+julia --project="../../src" examples/opwf.jl
+```
 
 
 ## Ongoing Development
