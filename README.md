@@ -77,6 +77,7 @@ cd src/PowerWaterModels.jl
 mkdir results
 julia --project="../../src" examples/opwf.jl
 ```
+Select solution data will be written to CSV files within the `results` directory.
 
 
 ## Ongoing Development
