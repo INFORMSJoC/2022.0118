@@ -67,9 +67,10 @@ Then, instantiate the project using
 
 To replicate the GasPowerModels maximal load delivery (MLD) example results, execute the following:
 ```bash
-cd src/GasPowerModels.jl/examples
-julia --project="../../../src" mld.jl
+julia --project="src" scripts/gaspowermodels-mld.jl
 ```
+Select solution data will be written to the terminal.
+Output from a prior execution has been stored in `results/gaspowermodels-mld.csv`.
 
 To replicate the PowerWaterModels example, execute the following:
 ```bash
