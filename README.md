@@ -7,16 +7,16 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under a BSD license as p
 
 The software and data in this repository provides links to a snapshot of the software and data
 that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by R. Bent, B. Tasseff and C. Coffrin.
+[TODO update this when available](https://doi.org/10.1287/ijoc.2019.0934) by R. Bent, B. Tasseff and C. Coffrin.
 The snapshot is based on the specific commits of the submodules linked to in the `src` directory.
 
 **Important: This code is being developed on an on-going basis at submodules linked in the `src` directory. Please visit these repositories if you would like to get a more recent version or would like support**
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite this software, please cite the [paper(TODO update this when available)](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+[![DOI(TODO update this when available)](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
 Below is the BibTex for citing this version of the code.
 
@@ -26,7 +26,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia},
   year =          {2023},
-  doi =           {TBD},
+  doi =           {TODO update this when available},
   url =           {https://github.com/INFORMSJoC/2022.0118},
 }  
 ```
@@ -44,7 +44,7 @@ The InfrastructureModels packages are provided as Julia source code, which is co
 
 ## Results
 
-TBD
+The results folder includes CSV files of the raw data that is presented in the paper's figures.
 
 
 ## Replicating
