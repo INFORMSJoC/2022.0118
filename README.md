@@ -24,7 +24,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{InfrastructureModels,
-  author =        {R. Bent, B. Tasseff and C. Coffrin},
+  author =        {Russell Bent and Byron Tasseff and Carleton Coffrin},
   publisher =     {INFORMS Journal on Computing},
   title =         {InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia},
   year =          {2023},
