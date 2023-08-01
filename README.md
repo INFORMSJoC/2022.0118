@@ -7,16 +7,18 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under a BSD license as p
 
 The software and data in this repository provides links to a snapshot of the software and data
 that were used in the research reported on in the paper 
-[TODO update this when available](https://doi.org/10.1287/ijoc.2019.0934) by R. Bent, B. Tasseff and C. Coffrin.
+[InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia](https://doi.org/10.1287/ijoc.2022.0118) by R. Bent, B. Tasseff and C. Coffrin.
 The snapshot is based on the specific commits of the submodules linked to in the `src` directory.
 
 **Important: This code is being developed on an on-going basis at submodules linked in the `src` directory. Please visit these repositories if you would like to get a more recent version or would like support**
 
 ## Cite
 
-To cite this software, please cite the [paper(TODO update this when available)](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-[![DOI(TODO update this when available)](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+[https://doi.org/10.1287/ijoc.2022.0118](https://doi.org/10.1287/ijoc.2022.0118)
+
+[https://doi.org/10.1287/ijoc.2022.0118.cd](https://doi.org/10.1287/ijoc.2022.0118.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -26,7 +28,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia},
   year =          {2023},
-  doi =           {TODO update this when available},
+  doi =           {10.1287/ijoc.2022.0118.cd},
   url =           {https://github.com/INFORMSJoC/2022.0118},
 }  
 ```
