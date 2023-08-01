@@ -20,10 +20,10 @@ To cite the contents of this repository, please cite both the paper and this rep
 
 [https://doi.org/10.1287/ijoc.2022.0118.cd](https://doi.org/10.1287/ijoc.2022.0118.cd)
 
-Below is the BibTex for citing this version of the code.
+Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
+@article{InfrastructureModels,
   author =        {R. Bent, B. Tasseff and C. Coffrin},
   publisher =     {INFORMS Journal on Computing},
   title =         {InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia},
