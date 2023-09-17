@@ -20,7 +20,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 
 [https://doi.org/10.1287/ijoc.2022.0118.cd](https://doi.org/10.1287/ijoc.2022.0118.cd)
 
-Below is the BibTex for citing this snapshot of the respoitory.
+Below is the BibTex for citing this snapshot of the respiratory.
 
 ```
 @article{InfrastructureModels,
@@ -29,7 +29,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
   title =         {InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia},
   year =          {2023},
   doi =           {10.1287/ijoc.2022.0118.cd},
-  url =           {https://github.com/INFORMSJoC/2022.0118},
+  note =          {Available for download at https://github.com/INFORMSJoC/2022.0118},
 }  
 ```
 
