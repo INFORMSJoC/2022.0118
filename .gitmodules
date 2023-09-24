@@ -1,0 +1,21 @@
+[submodule "src/InfrastructureModels.jl"]
+	path = src/InfrastructureModels.jl
+	url = https://github.com/lanl-ansi/InfrastructureModels.jl
+[submodule "src/GasModels.jl"]
+	path = src/GasModels.jl
+	url = https://github.com/lanl-ansi/GasModels.jl
+[submodule "src/PowerModels.jl"]
+	path = src/PowerModels.jl
+	url = https://github.com/lanl-ansi/PowerModels.jl
+[submodule "src/WaterModels.jl"]
+	path = src/WaterModels.jl
+	url = https://github.com/lanl-ansi/WaterModels.jl
+[submodule "src/PowerModelsDistribution.jl"]
+	path = src/PowerModelsDistribution.jl
+	url = https://github.com/lanl-ansi/PowerModelsDistribution.jl
+[submodule "src/GasPowerModels.jl"]
+	path = src/GasPowerModels.jl
+	url = https://github.com/lanl-ansi/GasPowerModels.jl
+[submodule "src/PowerWaterModels.jl"]
+	path = src/PowerWaterModels.jl
+	url = https://github.com/lanl-ansi/PowerWaterModels.jl
